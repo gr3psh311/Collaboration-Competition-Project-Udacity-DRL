@@ -37,5 +37,5 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 The `Tennis.ipynb` notebook provides instructions on how to train our agent, along with the trained model weights.
 
-
+This agent has been trained in the online workspace provided by Udacity. While it is possible to observe the trained agent's interaction with the environment, this feature is not yet available.
 
